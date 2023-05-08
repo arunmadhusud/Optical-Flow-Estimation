@@ -10,15 +10,6 @@ This comparative analysis provides valuable insights for researchers and practit
 
 ![Workflow](https://i.imgur.com/Y94iPKT.png)
 
-
-## Team
-
-- Arun Madhusudhanan (madhusudhanan.a@northeastern.edu)
-- Francis Jacob Kalliath (jacobkalliath.f@northeastern.edu)
-- Hardik Devrangadi (devrangadi.h@northeastern.edu)
-- Tejaswini Dilip Deore (deore.t@northeastern.edu)
-
-
 ## Executables
 
 Run FlowNet_2_0.ipynb to train, validate and test FlowNet 2.0. Replace main.py and losses.py provided by the authors of FlowNet 2.0 with the ones in this repository in PRCVOpticalFlow/scripts/.
